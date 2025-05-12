@@ -1,0 +1,1 @@
+{"eventType":"click","timestamp":"1747049474000","userId":null,"cookieId":"c1","deviceId":"d2","platform":"web"}

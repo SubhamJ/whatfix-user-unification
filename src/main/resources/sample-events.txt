@@ -1,0 +1,5 @@
+{"eventType":"page_view","timestamp":"1714998000000","userId":"u1","cookieId":"c1","deviceId":"d1","platform":"web"}
+{"eventType":"click","timestamp":"1714998600000","userId":null,"cookieId":"c1","deviceId":"d2","platform":"web"}
+{"eventType":"login","timestamp":"1714999200000","userId":"u2","cookieId":"c2","deviceId":"d3","platform":"mobile"}
+{"eventType":"page_view","timestamp":"1714999800000","userId":null,"cookieId":"c2","deviceId":"d4","platform":"mobile"}
+{"eventType":"click","timestamp":"1715000400000","userId":"u1","cookieId":null,"deviceId":"d5","platform":"web"}
